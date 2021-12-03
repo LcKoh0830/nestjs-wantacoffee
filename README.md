@@ -8,6 +8,16 @@
 $ npm install
 ```
 
+## Docker compose command
+
+```bash
+# start the mongodb
+docker-compose up -d
+
+# stop the mongodb
+docker-compose down
+```
+
 ## Running the app
 
 ```bash
